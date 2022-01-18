@@ -6,12 +6,13 @@ url: "https://bosunolaide.github.io" # the base hostname & protocol for your sit
 
 # User settings
 username: Abiola Olatunbosun
-user_description: A tech professional who combines contemporary Machine Learning and Software Engineering techniques, to build cutting-edge AI powered software products.  
-user_title: Machine Learning Engineer
+user_description: A Data Scientist and Machine Learning Engineer, who enjoys working with organizations, to make data-informed decisions, by using data to derive actionable insights, make meaningful predictions, and build cutting-edge products, with contemporary data and programming skills.
+
+user_title: Data Scientist | Machine Learning Engineer
 email: olaide_abiola87@yahoo.com
-twitter_username: lorem_ipsum
+twitter_username: @gclown
 github_username:  bosunolaide
-gplus_username:  lorem_ipsum
+gplus_username:  ##
 
 # Google-analytics
 google-analytics:
